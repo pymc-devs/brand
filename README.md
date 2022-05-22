@@ -1,7 +1,7 @@
 # PyMC Devs Branding
 
-This section contains PyMC Dev's branding standards and guidelines.
-Note:  
+This section contains PyMC Dev's branding standards and guidelines.  
+File types:    
 - `AI` is the filename extension used by Adobe Illustrator
 - `EPS` is Encapsulated PostScript (EPS) format ([format was used previously](http://www.differencebetween.net/technology/difference-between-ai-and-eps-in-adobe-illustrator/#ixzz7U3iIOKeC.))
 - `SVG` Scalable Vector Graphics (SVG) are an XML-based markup language for describing two-dimensional based vector graphics. They can be created and edited with any text editor or with drawing software.
