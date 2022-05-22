@@ -30,7 +30,7 @@ File types:
 #### Logo 1
 - File type: PNG
 - File size: 70 KB (1531 x 624 px)
-- File name: [1-pymcdevs.png](https://github.com/pymc-devs/brand/blob/master/logos/1-pymcdevs.png)
+- File name: [1-pymcdevs.png](https://github.com/pymc-devs/brand/blob/main/logos/1-pymcdevs.png)
 
 <img src="logos/1-pymcdevs.png" width="100" style="border:1px solid red">
 
@@ -39,7 +39,7 @@ File types:
 #### Logo 2
 - File type: JPG
 - File size: 85 KB (1531 x 624)
-- File name: [2-pymcdevs.jpg](https://github.com/pymc-devs/brand/blob/master/logos/2-pymcdevs.jpg)
+- File name: [2-pymcdevs.jpg](https://github.com/pymc-devs/brand/blob/main/logos/2-pymcdevs.jpg)
 
 <img src="logos/2-pymcdevs.jpg" width="100" style="border:1px solid red">
 
@@ -48,7 +48,7 @@ File types:
 #### Logo 3
 - File type: ICO
 - File size: 4 KB (32 x 32 px)
-- File name: [3-pymcdevs.ico](https://github.com/pymc-devs/brand/blob/master/logos/3-pymcdevs.ico)
+- File name: [3-pymcdevs.ico](https://github.com/pymc-devs/brand/blob/main/logos/3-pymcdevs.ico)
 
 <img src="logos/3-pymcdevs.ico" width="100" style="border:1px solid red">
 
