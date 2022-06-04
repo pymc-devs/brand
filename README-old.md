@@ -17,22 +17,10 @@ File types:
 - [Norwester](https://www.1001fonts.com/norwester-font.html)
 
 ### Color Palette
-
-![color-swatch](/brand_colors/color-swatch.png) 
-
-
-### Colors: Individual
-
-![#12698A](/brand_colors/colorswatch_12698a_green.png) `RGB (18, 105, 138) | HEX #12698A | green`  
-More info: [#12698A](https://www.color-hex.com/color/12698a) (in font part of logo)
-
-![#504A4E](/brand_colors/colorswatch_504a4e_black2.png) `RGB (80,74,78) | HEX #504A4E | black`  
-More info: black: [#504A4E](https://www.color-hex.com/color/504a4e) (in font part of logo)
-
-![#FFFFFF](/brand_colors/colorswatch_ffffff_white.png) `RGB (255,255,255) | HEX #FFFFFF | white`  
-More info: [#FFFFFF](https://www.color-hex.com/color/ffffff)
-
-
+- light green: [#166B8D](https://www.color-hex.com/color/166b8d)
+- green: [#12698A](https://www.color-hex.com/color/12698a)
+- black: [#504A4E](https://www.color-hex.com/color/504a4e)
+- white: [#FFFFFF](https://www.color-hex.com/color/ffffff)
 
 ### Logos
 
