@@ -28,7 +28,7 @@ File types:
 `RGB (18, 105, 138) | HEX #12698A | green`  
 More info: [#12698A](https://www.color-hex.com/color/12698a) (in font part of logo)
 
-![#504A4E](/brand_colors/colorswatch_504a4e_black2.png) 
+![#504A4E](/brand_colors/colorswatch_504a4e_black.png) 
 
 `RGB (80,74,78) | HEX #504A4E | black`  
 More info: black: [#504A4E](https://www.color-hex.com/color/504a4e) (in font part of logo)
