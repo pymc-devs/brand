@@ -11,20 +11,21 @@ File types:
 
 ---
 
-## PyMC Devs: Logo & Font
+## PyMC Devs: Logo & Font & Colors
 
 ### Font
 - [Norwester](https://www.1001fonts.com/norwester-font.html)
 
-### Colors
-- unknown at this time; need to ask the designer
+### Color Palette
+- light green: [#166B8D](https://www.color-hex.com/color/166b8d)
+- green: [#12698A](https://www.color-hex.com/color/12698a)
+- black: [#504A4E](https://www.color-hex.com/color/504a4e)
+- white: [#FFFFFF](https://www.color-hex.com/color/ffffff)
 
 ### Logos
 
 <br>
 <img src="logos/pymcdevs-logos-summary.png" >
-
-
 <br>
 
 #### Logo 1
@@ -56,17 +57,5 @@ File types:
 
 ---
 
-### Color Palette
-
-### "Green" (example: NEED TO UPDATE)
-
-![#34C4D9](/banner_colors/colorswatch_34c4d9_turquoise.png) `RGB (52,196,217) | HEX #34C4D9 | light turquoise`  
-More info: [#34c4d9](https://www.color-hex.com/color/34c4d9)
-
-
-
----
-
 ### Reference
 - [color-hex](https://www.color-hex.com): Glossary of Color Palettes
-
