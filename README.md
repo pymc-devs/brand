@@ -11,7 +11,7 @@ File types:
 
 ---
 
-## PyMC Devs: Logo & Font & Colors
+## PyMC Devs: Font, Colors & Logos
 
 ### Font
 - [Norwester](https://www.1001fonts.com/norwester-font.html)
