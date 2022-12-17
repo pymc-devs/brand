@@ -9,9 +9,9 @@ File types:
 <p><br />
 
 ## Suggestions for Viewing in Darkmode
-Some logos may be difficult to view due to being white color on a white background.  In the Chrome browser, to view Dark moode
+Some logos may be difficult to view due to being white color on a white background. Dark mode can be tested:  
 - GitHub: [Update theme appearance](https://github.com/settings/appearance)
-- [How to Turn on Dark Mode in Google Chrome](https://www.lifewire.com/turn-on-dark-mode-chrome-5222724).
+- Chrome: [How to Turn on Dark Mode in Google Chrome](https://www.lifewire.com/turn-on-dark-mode-chrome-5222724).
 
 ## PyMCon: Font, Colors & Logos
 <br />
