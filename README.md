@@ -40,13 +40,13 @@ More info: [#FFFFFF](https://www.color-hex.com/color/ffffff)
 
 
 
-### Logos
+### PyMC Logos
 
 <br>
 <img src="logos/pymcdevs-logos-summary.png" >
 <br>
 
-#### Logo 1
+#### PNG Logo
 - File type: PNG
 - File size: 70 KB (1531 x 624 px)
 - File name: [1-pymcdevs.png](https://github.com/pymc-devs/brand/blob/main/logos/1-pymcdevs.png)
@@ -55,7 +55,7 @@ More info: [#FFFFFF](https://www.color-hex.com/color/ffffff)
 
 <br>
 
-#### Logo 2
+#### JPG Logo
 - File type: JPG
 - File size: 85 KB (1531 x 624)
 - File name: [2-pymcdevs.jpg](https://github.com/pymc-devs/brand/blob/main/logos/2-pymcdevs.jpg)
@@ -64,7 +64,7 @@ More info: [#FFFFFF](https://www.color-hex.com/color/ffffff)
 
 <br>
 
-#### Logo 3
+#### Favicon Logo
 - File type: ICO
 - File size: 4 KB (32 x 32 px)
 - File name: [3-pymcdevs.ico](https://github.com/pymc-devs/brand/blob/main/logos/3-pymcdevs.ico)
@@ -72,6 +72,40 @@ More info: [#FFFFFF](https://www.color-hex.com/color/ffffff)
 <img src="logos/3-pymcdevs.ico" width="100" style="border:1px solid red">
 
 <br>
+
+### PyTensor Logos
+
+#### PNG Logo (RGB)
+- File type: PNG
+- Color model: RGB
+- File size: 77 KB (2834 × 883 px)
+- File name: [PyTensor_RGB.png](https://github.com/pymc-devs/brand/blob/main/logos/PyTensor_RGB.png)
+
+<img src="logos/PyTensor_RGB.png" width="100" style="border:1px solid red">
+
+#### SVG Logo (RGB)
+- File type: SVG
+- Color model: RGB
+- File size: 7 KB (2834 × 883 px)
+- File name: [PyTensor_RGB.svg](https://github.com/pymc-devs/brand/blob/main/logos/PyTensor_RGB.svg)
+
+<img src="logos/PyTensor_RGB.svg" width="100" style="border:1px solid red">
+
+#### PNG Logo (CYMK)
+- File type: PNG
+- Color model: CYMK
+- File size: 79 KB (2834 × 883 px)
+- File name: [PyTensor_CMYK.png](https://github.com/pymc-devs/brand/blob/main/logos/PyTensor_CMYK.png)
+
+<img src="logos/PyTensor_CMYK.png" width="100" style="border:1px solid red">
+
+#### JPG Logo (CYMK)
+- File type: JPG
+- Color model: CYMK
+- File size: 562 KB (2834 × 883 px)
+- File name: [PyTensor_CMYK.jpg](https://github.com/pymc-devs/brand/blob/main/logos/PyTensor_CMYK.jpg)
+
+<img src="logos/PyTensor_CMYK.jpg" width="100" style="border:1px solid red">
 
 ---
 
