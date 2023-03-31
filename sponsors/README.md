@@ -9,4 +9,4 @@
 
 1. NumFOCUS: https://github.com/pymc-devs/brand/blob/main/sponsors/sponsor_logos/sponsor_numfocus.png?raw=true
 2. PyMC Labs: https://github.com/pymc-devs/brand/blob/main/sponsors/sponsor_logos/sponsor_pymc_labs.png?raw=true
-3. Mistplay: https://raw.githubusercontent.com/pymc-devs/brand/main/sponsors/sponsor_logos/sponsor_mistplay.png
+3. Mistplay: https://github.com/pymc-devs/brand/blob/main/sponsors/sponsor_logos/sponsor_mistplay.png?raw=true
