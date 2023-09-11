@@ -1,5 +1,6 @@
 # DS_Store files
 .DS_Store
+sponsors/.DS_Store
 sponsors/sponsor_logos/.DS_Store
 */*/.DS_Store
 
